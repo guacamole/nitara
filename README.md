@@ -1,2 +1,2 @@
 # nitara
-read from email, parse, vlookup and apply downtime in nagios
+start a TFTP server, upgrade firmware of provided switches
